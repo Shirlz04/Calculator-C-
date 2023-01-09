@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\oshan\Desktop\CS410\hw1\hw1\Source.cpp(92,9): warning C4101: 'holder2': unreferenced local variable
+C:\Users\oshan\Desktop\CS410\hw1\hw1\Source.cpp(303,8): warning C4101: 'test': unreferenced local variable
+  hw1.vcxproj -> C:\Users\oshan\Desktop\CS410\hw1\Debug\hw1.exe
